@@ -1,2 +1,2 @@
 # CriminalIntent
-CriminalIntent Kotlin project from Big Nerd Ranch. In progress.
+CriminalIntent Kotlin project from Big Nerd Ranch. In progress, will cover about 11 Chapters.
