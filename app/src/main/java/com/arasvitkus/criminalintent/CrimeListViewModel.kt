@@ -6,6 +6,7 @@ class CrimeListViewModel : ViewModel() {
 
     val crimes = mutableListOf<Crime>()
 
+    //Initialize i crimes up to 100
     init {
         for (i in 0 until 100) {
             val crime = Crime()
